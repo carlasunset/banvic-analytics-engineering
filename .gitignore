@@ -7,3 +7,5 @@ dbt_internal_packages/
 venv/
 __pycache__/
 *.pyc
+# dbt local user config
+profiles/.user.yml
